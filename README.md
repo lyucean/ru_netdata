@@ -211,4 +211,6 @@
 - `update`: количество запросов на обновление строки в таблице.
 - `write`: количество запросов на вставку строки в таблицу.
 
+[Расшифровка всех параметров](https://dev.mysql.com/doc/mysql-em-plugin/en/myoem-metric-mysqlserver-handleractivity-category.html)
+
 ---
