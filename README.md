@@ -294,4 +294,38 @@
 - `cached`
 - `running`
 
+## Innodb
+
+### InnoDB I / O Bandwidth - график чтения/записи в MiB/s
+### InnoDB I/O Operations
+
+- `reads`
+- `writes`
+- `fsyncs`: синхронизация данных на диске с данными в памяти
+
+### InnoDB Log Operations - лог операций
+- `write_requests`
+- `writes`
+
+### InnoDB OS Log Pending Operations - лог операция в ожидании
+- `writes`
+- `fsyncs`: синхронизация данных на диске с данными в памяти
+
+### InnoDB OS Log Bandwidth - лог пропускная способность в KiB/s
+
+### InnoDB Current Row Locks - количество заблокированных строк
+
+- `current_waits`: сейчас в ожидании
+
+### InnoDB Row Operations - количество строковых операции в секунду
+
+### InnoDB Buffer Pool Pages - пул буфера
+
+### InnoDB Buffer Pool Flush Pages Requests - Запросы страниц очистки буферного пула в секунду
+
+### InnoDB Buffer Pool Bytes - размер пула
+
+### InnoDB Buffer Pool Requests - запросы пула в секунду
+
+### InnoDB Buffer Pool Requests - операции пула в секунду
 ---
