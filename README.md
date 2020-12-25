@@ -1,6 +1,6 @@
 # System Overview
 
-## Softnet -
+## Softnet
 
 Статистика для CPU SoftIRQ, связанных с работой приема сети. Распределение по ядрам ЦП можно найти в статистике CPU /
 softnet statistics.
