@@ -168,6 +168,17 @@ softnet statistics.
 - `C6` также с силовым закрытием
 
 ---
+# Memory
+
+---
+# Disks
+
+---
+#  Networking Stack
+
+
+
+---
 
 # mdadm — утилита для управления программными RAID массивами в Linux
 
